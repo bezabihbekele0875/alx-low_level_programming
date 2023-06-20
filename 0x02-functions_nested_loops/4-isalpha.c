@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-*controls if a character is alphabetical
+*_isalpha - controls if a character is alphabetical
 *@c: character to be verified
 *Return: return 0 or 1
 */
